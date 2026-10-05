@@ -1,0 +1,178 @@
+[
+  {
+    "target": "tophat_circle",
+    "title": "Круглый top-hat",
+    "algorithm": "GS",
+    "eta_pct": 94.95,
+    "uniformity_pct": 73.31,
+    "rmse": 0.289351,
+    "ptv_pct": 22.28,
+    "iterations": 120,
+    "iters_to_converge": 55
+  },
+  {
+    "target": "tophat_circle",
+    "title": "Круглый top-hat",
+    "algorithm": "WGS",
+    "eta_pct": 94.98,
+    "uniformity_pct": 72.28,
+    "rmse": 0.295575,
+    "ptv_pct": 18.51,
+    "iterations": 120,
+    "iters_to_converge": 50
+  },
+  {
+    "target": "tophat_circle",
+    "title": "Круглый top-hat",
+    "algorithm": "MRAF",
+    "eta_pct": 90.38,
+    "uniformity_pct": 78.27,
+    "rmse": 0.235074,
+    "ptv_pct": 23.37,
+    "iterations": 120,
+    "iters_to_converge": 77
+  },
+  {
+    "target": "tophat_circle",
+    "title": "Круглый top-hat",
+    "algorithm": "AW-IFTA",
+    "eta_pct": 90.75,
+    "uniformity_pct": 79.33,
+    "rmse": 0.220107,
+    "ptv_pct": 28.25,
+    "iterations": 120,
+    "iters_to_converge": 92
+  },
+  {
+    "target": "tophat_square",
+    "title": "Квадратный top-hat",
+    "algorithm": "GS",
+    "eta_pct": 94.9,
+    "uniformity_pct": 72.72,
+    "rmse": 0.298421,
+    "ptv_pct": 23.64,
+    "iterations": 120,
+    "iters_to_converge": 66
+  },
+  {
+    "target": "tophat_square",
+    "title": "Квадратный top-hat",
+    "algorithm": "WGS",
+    "eta_pct": 94.92,
+    "uniformity_pct": 72.37,
+    "rmse": 0.29805,
+    "ptv_pct": 18.18,
+    "iterations": 120,
+    "iters_to_converge": 55
+  },
+  {
+    "target": "tophat_square",
+    "title": "Квадратный top-hat",
+    "algorithm": "MRAF",
+    "eta_pct": 90.42,
+    "uniformity_pct": 77.59,
+    "rmse": 0.241357,
+    "ptv_pct": 24.3,
+    "iterations": 120,
+    "iters_to_converge": 76
+  },
+  {
+    "target": "tophat_square",
+    "title": "Квадратный top-hat",
+    "algorithm": "AW-IFTA",
+    "eta_pct": 90.55,
+    "uniformity_pct": 79.36,
+    "rmse": 0.224206,
+    "ptv_pct": 30.41,
+    "iterations": 120,
+    "iters_to_converge": 92
+  },
+  {
+    "target": "ring",
+    "title": "Кольцо",
+    "algorithm": "GS",
+    "eta_pct": 91.79,
+    "uniformity_pct": 74.42,
+    "rmse": 0.296294,
+    "ptv_pct": 20.25,
+    "iterations": 120,
+    "iters_to_converge": 43
+  },
+  {
+    "target": "ring",
+    "title": "Кольцо",
+    "algorithm": "WGS",
+    "eta_pct": 91.97,
+    "uniformity_pct": 74.49,
+    "rmse": 0.294219,
+    "ptv_pct": 15.85,
+    "iterations": 120,
+    "iters_to_converge": 35
+  },
+  {
+    "target": "ring",
+    "title": "Кольцо",
+    "algorithm": "MRAF",
+    "eta_pct": 86.31,
+    "uniformity_pct": 79.36,
+    "rmse": 0.238018,
+    "ptv_pct": 28.35,
+    "iterations": 120,
+    "iters_to_converge": 85
+  },
+  {
+    "target": "ring",
+    "title": "Кольцо",
+    "algorithm": "AW-IFTA",
+    "eta_pct": 86.28,
+    "uniformity_pct": 80.51,
+    "rmse": 0.224283,
+    "ptv_pct": 30.09,
+    "iterations": 120,
+    "iters_to_converge": 90
+  },
+  {
+    "target": "spots_4x4",
+    "title": "Массив 4x4",
+    "algorithm": "GS",
+    "eta_pct": 91.2,
+    "uniformity_pct": 93.43,
+    "rmse": 0.317511,
+    "ptv_pct": 4.46,
+    "iterations": 120,
+    "iters_to_converge": 44
+  },
+  {
+    "target": "spots_4x4",
+    "title": "Массив 4x4",
+    "algorithm": "WGS",
+    "eta_pct": 90.95,
+    "uniformity_pct": 98.93,
+    "rmse": 0.283807,
+    "ptv_pct": 4.44,
+    "iterations": 120,
+    "iters_to_converge": 79
+  },
+  {
+    "target": "spots_4x4",
+    "title": "Массив 4x4",
+    "algorithm": "MRAF",
+    "eta_pct": 88.09,
+    "uniformity_pct": 97.55,
+    "rmse": 0.281868,
+    "ptv_pct": 4.48,
+    "iterations": 120,
+    "iters_to_converge": 90
+  },
+  {
+    "target": "spots_4x4",
+    "title": "Массив 4x4",
+    "algorithm": "AW-IFTA",
+    "eta_pct": 87.79,
+    "uniformity_pct": 99.09,
+    "rmse": 0.26433,
+    "ptv_pct": 4.57,
+    "iterations": 120,
+    "iters_to_converge": 92
+  }
+]
